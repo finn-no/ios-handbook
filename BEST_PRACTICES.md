@@ -1,12 +1,12 @@
 # Dos and don'ts
 
-## Simplified closure syntax
+## Trailing closures
 
-### What
-Use the simplified closure syntax when possible. 
+### What?
+Avoid using trailing closures.
 
-### Reasoning
-We avoid adding code that is not needed the same way we don't use semicolons or `internal`.
+### Why?
+The closure name can provide valuable information on how it should be used hence is better to have it than to remove it even though that means having extra code. Finally, you can't use the simplified version for all closures (or would like to), making the rule on when it's a good idea to use trailing closures complex and error prone.
 
 ### Example
 
