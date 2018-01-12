@@ -12,15 +12,14 @@ The closure name can provide valuable information on how it should be used hence
 
 #### Do
 ```swift
-present(alert, animated: true) {
+present(alert, animated: true, completion: {
     // .. do something
 }
 ```
 
-
 #### Don't
 ```swift
-present(alert, animated: true, completion: {
+present(alert, animated: true) {
     // .. do something
 }
 ```
