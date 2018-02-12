@@ -13,6 +13,7 @@ Now we need to setup with GitHub
 - [ ] https://sch-chat.slack.com
 - [ ] Press the "Sign with Okta" button
 - [ ] Ask your manager to get access to the relevant channels
+    - #finn-platform-ios, #finn-team-apps, #finn-apps-status, #finn-apps-social
 - [ ] Add a picture everywhere!
 
 - [ ] Get the project up and running
