@@ -10,4 +10,9 @@ Now we need to setup with GitHub
 
 - [ ] Download Slack app (https://slack.com/downloads/osx)
 - [ ] Feel free to use your personal Apple account for downloading apps
-- [ ] 
+- [ ] https://sch-chat.slack.com
+- [ ] Press the "Sign with Okta" button
+- [ ] Ask your manager to get access to the relevant channels
+- [ ] Add a picture everywhere!
+
+- [ ] Get the project up and running
