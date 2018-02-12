@@ -1,4 +1,4 @@
-*Welcome to FINN!* We are happy of having you with us, we have written this guide to get you started in your journey of _making the FINN app great again_! If any of the steps are outdated or any information is missing please send a pull request.
+_**Welcome to FINN!**_ We are happy of having you with us, we have written this guide to get you started in your journey of _making the FINN app great again_! If any of the steps are outdated or any information is missing please send a pull request.
 
 First of all, [Okta](https://schibsted.okta.com) is your main gateway for all the things Schibsted (FINN), here you'll find direct links to all the apps you've access to.
 
