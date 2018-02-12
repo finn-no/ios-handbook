@@ -2,6 +2,9 @@ _**Welcome to FINN!**_ We are happy of having you with us, we have written this 
 
 First of all, [Okta](https://schibsted.okta.com) is your main gateway for all the things Schibsted (FINN), here you'll find direct links to all the apps you've access to.
 
+![Okta](https://raw.githubusercontent.com/finn-no/ios-handbook/master/Images/okta.png)
+
+
 Now we need to setup with GitHub
 
 ## GitHub
