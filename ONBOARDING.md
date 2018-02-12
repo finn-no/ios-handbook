@@ -21,5 +21,5 @@ Now we need to setup with GitHub
 - [ ] Add a picture everywhere!
 
 ## Trello
-- [ ] Get invited to our Trello team
+- [ ] Get invited to our Trello team (we advise to link your work email with your personal account so it's easier to manage, you can link several emails to one single Trello username)
 - [ ] Get access to the relevant Trello boards
