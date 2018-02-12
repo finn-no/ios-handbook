@@ -1,1 +1,4 @@
-
+- https://schibsted.okta.com
+- https://github.schibsted.io
+- Request access your manager to get access to the FINN organization
+- 
