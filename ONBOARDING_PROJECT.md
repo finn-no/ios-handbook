@@ -1,3 +1,5 @@
+# Onboarding project
+
 Welcome to the FINN iOS team. We have a project prepared for you to get used to some of the decisions we've taken as well to get feedback on them.
 
 Some of the topics that you'll cover here are:
