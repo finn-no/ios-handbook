@@ -1,0 +1,42 @@
+## Proposals
+
+### Team
+
+- iOS meeting 2 times per month (include presentations)
+
+- Blog posts (1 per month)
+Accessibility
+
+- Meetups and talks (1 every 2 months)
+
+- Open source ranking (Top 10 for Oslo in 2018)
+
+- Gathering (every 6 months)
+
+- Codebase happiness avg. 3.83 goal is 7.
+Before: 4, 7, 4, 2, 3, 3
+
+### Project
+
+- Improve the project structure 
+We need to agree on a structure that we are comfortable with. Platform team will come with a proposal and we'll sit down and discuss.
+
+- Improve app architecture
+Document preferred architecture (view controller contaiment)
+
+- Better networking client
+Streamline authentication, versioning, optionality, singleton? A workshop to share requirements and limitations. Networking access from share widget?
+
+- FINResultList 
+Revisit and reduce usage screen by screen
+
+- Danger 
+http://danger.systems (extensions, localize, alert controllers)
+
+- :fire: Kill CocoaPods 🔥 
+
+- SwiftFormat 
+Discuss alternative ways of running the script
+
+- Compilation time
+Discuss smaller component (FINNCore, Networking, Object page, Filters, Gallery, UI Design System, Form)
