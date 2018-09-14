@@ -1,4 +1,4 @@
-# FINN.no iOS Handbook
+# FINN iOS Handbook
 
 This is the FINN iOS Handbook, a list of documents on how we do things at FINN.
 
