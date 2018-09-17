@@ -3,13 +3,15 @@
 ```
 Library // Shared code
 -- Extensions
--- Models
+-- SharedModels
 -- Networking
 -- UI
 -- Tracking
 -- ObjectPage
 ---- AdReporter
 -- Favorites
+---- Controllers
+---- Models
 -- EasterEggs
 -- Consent
 -- Authentication
