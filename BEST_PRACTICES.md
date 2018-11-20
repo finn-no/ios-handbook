@@ -23,3 +23,12 @@ present(alert, animated: true) {
     // .. do something
 }
 ```
+
+## Naming
+
+### What?
+- Use `Kind` instead of `Type` when naming enums, structs, etc.
+- Use `kind` instead of `type` when naming variable names unless it's actually to store and refer to Swift types.
+
+### Why?
+To keep consistency and avoid confusion since `Type` is a metatype in Swift. Read about metatypes [here]( https://docs.swift.org/swift-book/ReferenceManual/Types.html#).
