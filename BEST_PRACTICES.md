@@ -14,7 +14,7 @@ The closure name can provide valuable information on how it should be used hence
 ```swift
 present(alert, animated: true, completion: {
     // .. do something
-}
+})
 ```
 
 #### Don't
