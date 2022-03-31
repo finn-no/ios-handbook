@@ -32,3 +32,10 @@ present(alert, animated: true) {
 
 ### Why?
 To keep consistency and avoid confusion since `Type` is a metatype in Swift. Read about metatypes [here]( https://docs.swift.org/swift-book/ReferenceManual/Types.html#).
+
+
+# FinniversKit or FinnUI?
+Should you add UI code to FinniversKit or FinnUI? 
+- If it is to be used as a component and from many places it belongs in FinniversKit
+- Is it to be used from the main app repo and it is a "feature" or has a single use (within forseeable future) it should go in FinnUI. If it later is supposed to be reused you can move it to FinniversKit.
+- Is it to be used from another repository than the main app repo and it is a "feature" or has a single use (within forseeable future) it should go in go in that repository. If it later is supposed to be reused you can move it to FinniversKit.
