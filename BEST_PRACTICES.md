@@ -1,5 +1,14 @@
 # Dos and don'ts
 
+## SDKs tag versioning
+
+### What?
+After merging any PR to any SDK's master, please don't forget to make a new release (at least patch) using `bundle exec fastlane` script.
+After creating a new SKD's tag please bump it's version on ios-app. If you have any blockers to do so - please make a note inside PR you closed.
+
+### Why?
+All releases should be done automatically to avoid breaking team's release guidelines. Also it is very important to keep all tag's inside all SDKs owners up to date after releasing new features. Otherwise it could lead us in situation when it's hard to identify why tags are different in different places of the project and a developer should investigate the issue (= waste of time). 
+
 ## Trailing closures
 
 ### What?
