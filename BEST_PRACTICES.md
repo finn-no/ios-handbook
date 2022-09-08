@@ -2,7 +2,7 @@
 
 ## SDKs tag versioning
 
-### What?
+## Working process guide
 After merging any PR to any SDK's master, please don't forget to make a new release (at least patch) using `bundle exec fastlane` script.
 After creating a new SDK's tag please bump it's version on ios-app. If you have any blockers to do so - please make a note inside PR you closed.
 
