@@ -1,6 +1,12 @@
 # Dos and don'ts
 
-## SDKs tag versioning
+## Libraries/SDKs versioning
+
+### MAJOR.MINOR.PATCH
+When making a new release/version keep in mind how to update the version number.
+- Major: The change you are making is a breaking change, meaning that "users" of it can't update without also making code changes.
+- Minor: You added something new or updated something but it does not require code changes.
+- Patch: Fix for a bug or error in a way that is internal to the library/SDK.
 
 ## Working process guide
 After merging any PR to any SDK's master, please don't forget to make a new release (at least patch) using `bundle exec fastlane` script.
