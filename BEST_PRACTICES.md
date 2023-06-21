@@ -18,7 +18,7 @@ When you do a breaking change the "users" of that repo should be updated ASAP. T
 If you will be following up with more PRs you can wait and make a new minor/patch release after they are all merged, provided you know that no one else will make changes in the meanwhile. Do not forget to update ios-app (or other "owners") after making the new version. If you will/can not do this directly leave a note of it in the PR you closed.
 
 ### Why?
-All releases should be done automatically to avoid breaking team's release guidelines. Also it is very important to keep all tag's inside all SDKs "users" up to date after releasing new features. Otherwise it could lead us in situation when it's hard to identify why tags are different in different places of the project and a developer needs to investigate the issue (= waste of time). 
+All releases should be done automatically to avoid breaking team's release guidelines. Also it is very important to keep all tags inside all SDKs "users" up to date after releasing new features. Otherwise it could lead us in situation when it's hard to identify why tags are different in different places of the project and a developer needs to investigate the issue (= waste of time). 
 
 ## Trailing closures
 
@@ -26,7 +26,7 @@ All releases should be done automatically to avoid breaking team's release guide
 Avoid using trailing closures if the closure name can provide valuable information on how it should be used.
 
 ### Why?
-If closure name can provides valuable information on how it should be used it is better to have it than to remove it - even though that means having extra code. 
+If closure name provides valuable information on how it should be used it is better to have it than to remove it - even though that means having extra code. 
 
 ### Example
 
